@@ -4,6 +4,6 @@
 
 비공개 저장소이며 관련 코드는 비공개입니다.
 
-시연 영상 업로드용 저장소 입니다.
+시연 영상:
 
 https://user-images.githubusercontent.com/83524779/185651237-fca15a64-4461-4c2b-8f4b-047fcdeb954a.mp4
