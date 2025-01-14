@@ -78,9 +78,9 @@ class MyApp(QWidget):
             login_button = driver.find_element_by_class_name("btn_global")
             login_button.click()
 
-            driver.get("https://cafe.naver.com/cstudyjava")
+            driver.get("{link}")
             time.sleep(0.5)
-            driver.get("https://cafe.naver.com/cstudyjava?iframe_url=/ArticleList.nhn%3Fsearch.clubid=19799898%26search.menuid=9%26search.boardtype=L")
+            driver.get("{link}")
             time.sleep(0.5)
 
             driver.switch_to.frame('cafe_main')
